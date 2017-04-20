@@ -1,0 +1,23 @@
+{
+    "name": "theworld_asp.netcoretutorial_pluralsight",
+    "description": "",
+    "license": "MIT",
+    "private": true,
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "jquery": "^3.2.1",
+        "jquery-validation": "^1.16.0",
+        "jquery-validation-unobtrusive": "^3.2.6",
+        "bootstrap": "^3.3.7",
+        "font-awesome": "^4.7.0",
+        "angular": "1.5.8",
+        "angular-route": "1.5.8",
+        "bootswatch": "^3.3.7"
+    }
+}
